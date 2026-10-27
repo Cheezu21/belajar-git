@@ -1,1 +1,1 @@
-Halo, ini proyek data pertama gue! Versi kedua.
+Halo, ini proyek data pertama gue! Gue sedang belajar branch Git.
