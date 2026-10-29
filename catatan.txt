@@ -1,1 +1,2 @@
 Halo, ini proyek data pertama gue! Gue sedang belajar branch Git.
+Gue sudah belajar dasar Git dan GitHub.
